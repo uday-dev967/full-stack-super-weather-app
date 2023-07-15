@@ -12,5 +12,4 @@
 # weatherapp for frontend
 1. It contains README.md file which show how the app works please go through it
 
-# Published link
-# https://stellar-cat-29f491.netlify.app
+
